@@ -1,2 +1,2 @@
 this is my first nodejs api for notes.
-it can create , del, update the note.
+it can create,read,list and delete the note.
